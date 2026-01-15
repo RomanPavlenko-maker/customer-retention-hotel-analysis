@@ -23,3 +23,7 @@ SQL-based analysis of hotel booking data focused on customer retention, cancella
 ## Key Insights
 - Repeat customers cancel significantly less often than new customers
 - High cancellation rates among new customers indicate potential revenue loss
+
+## Looker Studio Dashboard
+
+![Customer Retention Dashboard](looker/dashboard_preview.png)
